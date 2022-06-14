@@ -1,4 +1,5 @@
-![Screenshot (1)](https://user-images.githubusercontent.com/93942770/173636508-c5527020-8199-462d-84f8-79a002b4186a.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/93942770/173636732-a25dccae-9a8c-4357-840c-c8a3e748e13b.png)
 
 
 Stripe UI
